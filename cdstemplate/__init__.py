@@ -5,4 +5,4 @@ if not "-m" in sys.argv:
     from . import corpus_counter_script
     from . import word_count
     from . import utils
-
+    from . import hello_world
